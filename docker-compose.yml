@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  app:
+    image: crawl-tiki
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+        - ./index.js:/app/index.js
+        - ./package.json:/app/package.json
+        - ./contents:/app/contents/
+    ports:
+      - "3000:3000"
+    restart: unless-stopped

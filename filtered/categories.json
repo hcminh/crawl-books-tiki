@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Sách tiếng Việt",
+        "slug": "sach-tieng-viet"
+    },
+    {
+        "name": "Sách kỹ năng sống",
+        "slug": "sach-ky-nang-song"
+    },
+    {
+        "name": "Sách tư duy - Kỹ năng sống",
+        "slug": "sach-tu-duy---ky-nang-song"
+    },
+    {
+        "name": "Sách Lịch sử",
+        "slug": "sach-lich-su"
+    },
+    {
+        "name": "Lịch Sử Thế Giới",
+        "slug": "lich-su-the-gioi"
+    },
+    {
+        "name": "Sách văn học",
+        "slug": "sach-van-hoc"
+    },
+    {
+        "name": "Truyện ngắn - Tản văn - Tạp Văn",
+        "slug": "truyen-ngan---tan-van---tap-van"
+    },
+    {
+        "name": "Tác phẩm kinh điển",
+        "slug": "tac-pham-kinh-dien"
+    },
+    {
+        "name": "Sách kinh tế",
+        "slug": "sach-kinh-te"
+    },
+    {
+        "name": "Sách kinh tế học",
+        "slug": "sach-kinh-te-hoc"
+    },
+    {
+        "name": "Tiểu sử - Hồi ký",
+        "slug": "tieu-su---hoi-ky"
+    },
+    {
+        "name": "Tiểu Thuyết",
+        "slug": "tieu-thuyet"
+    },
+    {
+        "name": "Sách Học Ngoại Ngữ",
+        "slug": "sach-hoc-ngoai-ngu"
+    },
+    {
+        "name": "Sách Học Tiếng Hoa",
+        "slug": "sach-hoc-tieng-hoa"
+    },
+    {
+        "name": "Sách quản trị, lãnh đạo",
+        "slug": "sach-quan-tri,-lanh-dao"
+    },
+    {
+        "name": "Bài học kinh doanh",
+        "slug": "bai-hoc-kinh-doanh"
+    },
+    {
+        "name": "Light novel",
+        "slug": "light-novel"
+    },
+    {
+        "name": "Sách Bà mẹ - Em bé",
+        "slug": "sach-ba-me---em-be"
+    },
+    {
+        "name": "Sách Làm Cha Mẹ",
+        "slug": "sach-lam-cha-me"
+    },
+    {
+        "name": "Truyện dài",
+        "slug": "truyen-dai"
+    },
+    {
+        "name": "Sách kỹ năng làm việc",
+        "slug": "sach-ky-nang-lam-viec"
+    },
+    {
+        "name": "Sách thiếu nhi ",
+        "slug": "sach-thieu-nhi-"
+    },
+    {
+        "name": "Văn học thiếu nhi",
+        "slug": "van-hoc-thieu-nhi"
+    },
+    {
+        "name": "Sách nghệ thuật sống đẹp",
+        "slug": "sach-nghe-thuat-song-dep"
+    },
+    {
+        "name": "Sách Tâm lý - Giới tính",
+        "slug": "sach-tam-ly---gioi-tinh"
+    },
+    {
+        "name": "Sách Tâm Lý Tuổi Teen",
+        "slug": "sach-tam-ly-tuoi-teen"
+    },
+    {
+        "name": "Sách Kiến Thức Tổng Hợp",
+        "slug": "sach-kien-thuc-tong-hop"
+    },
+    {
+        "name": "Kiến Thức Bách Khoa",
+        "slug": "kien-thuc-bach-khoa"
+    },
+    {
+        "name": "Sách doanh nhân",
+        "slug": "sach-doanh-nhan"
+    },
+    {
+        "name": "Sách Thường Thức - Gia Đình",
+        "slug": "sach-thuong-thuc---gia-dinh"
+    },
+    {
+        "name": "Chăm sóc sức khỏe",
+        "slug": "cham-soc-suc-khoe"
+    },
+    {
+        "name": "Truyện Tranh, Manga, Comic",
+        "slug": "truyen-tranh,-manga,-comic"
+    },
+    {
+        "name": "Sách Kiến Thức - Kỹ Năng Cho Trẻ",
+        "slug": "sach-kien-thuc---ky-nang-cho-tre"
+    },
+    {
+        "name": "Truyện trinh thám",
+        "slug": "truyen-trinh-tham"
+    },
+    {
+        "name": "Sách Học Tiếng Hàn",
+        "slug": "sach-hoc-tieng-han"
+    },
+    {
+        "name": "Sách Y Học",
+        "slug": "sach-y-hoc"
+    },
+    {
+        "name": "Truyện kể cho bé",
+        "slug": "truyen-ke-cho-be"
+    },
+    {
+        "name": "Sách Tôn Giáo - Tâm Linh",
+        "slug": "sach-ton-giao---tam-linh"
+    },
+    {
+        "name": "Sách Học Tiếng Anh",
+        "slug": "sach-hoc-tieng-anh"
+    },
+    {
+        "name": "Truyện ngôn tình",
+        "slug": "truyen-ngon-tinh"
+    },
+    {
+        "name": "Sách Văn Hóa - Địa Lý - Du Lịch",
+        "slug": "sach-van-hoa---dia-ly---du-lich"
+    },
+    {
+        "name": "Sách Địa Danh - Du Lịch",
+        "slug": "sach-dia-danh---du-lich"
+    },
+    {
+        "name": "Truyện đam mỹ",
+        "slug": "truyen-dam-my"
+    },
+    {
+        "name": "Từ Điển",
+        "slug": "tu-dien"
+    },
+    {
+        "name": "Từ Điển Ngôn Ngữ Khác",
+        "slug": "tu-dien-ngon-ngu-khac"
+    },
+    {
+        "name": "Sách khởi nghiệp",
+        "slug": "sach-khoi-nghiep"
+    }
+]

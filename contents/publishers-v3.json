@@ -1,0 +1,527 @@
+[
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Hồng Đức",
+        "slug": "nha-xuat-ban-hong-duc"
+    },
+    {
+        "name": "Nhà Xuất Bản Tri Thức",
+        "slug": "nha-xuat-ban-tri-thuc"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Học",
+        "slug": "nha-xuat-ban-van-hoc"
+    },
+    {
+        "name": "Nhà Xuất Bản Tổng hợp TP.HCM",
+        "slug": "nha-xuat-ban-tong-hop-tp.hcm"
+    },
+    {
+        "id": 1846,
+        "name": "Nhã Nam",
+        "slug": "nha-nam"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Thanh Niên",
+        "slug": "nha-xuat-ban-thanh-nien"
+    },
+    {
+        "id": 1846,
+        "name": "Nhã Nam",
+        "slug": "nha-nam"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Lao Động",
+        "slug": "nha-xuat-ban-lao-dong"
+    },
+    {
+        "name": "Nhà Xuất Bản Lao Động",
+        "slug": "nha-xuat-ban-lao-dong"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Hồng Đức",
+        "slug": "nha-xuat-ban-hong-duc"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Đại Học Quốc Gia Hà Nội",
+        "slug": "nha-xuat-ban-dai-hoc-quoc-gia-ha-noi"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Học",
+        "slug": "nha-xuat-ban-van-hoc"
+    },
+    {
+        "name": "Nhà Xuất Bản Dân Trí",
+        "slug": "nha-xuat-ban-dan-tri"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "id": 1849,
+        "name": "Thái Hà",
+        "slug": "thai-ha"
+    },
+    {
+        "id": 1846,
+        "name": "Nhã Nam",
+        "slug": "nha-nam"
+    },
+    {
+        "name": "Nhà Xuất Bản Hội Nhà Văn",
+        "slug": "nha-xuat-ban-hoi-nha-van"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Học",
+        "slug": "nha-xuat-ban-van-hoc"
+    },
+    {
+        "name": "Nhà Xuất Bản Hội Nhà Văn",
+        "slug": "nha-xuat-ban-hoi-nha-van"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Tổng hợp TP.HCM",
+        "slug": "nha-xuat-ban-tong-hop-tp.hcm"
+    },
+    {
+        "name": "Nhà Xuất Bản Tổng hợp TP.HCM",
+        "slug": "nha-xuat-ban-tong-hop-tp.hcm"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Học",
+        "slug": "nha-xuat-ban-van-hoc"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Lao Động",
+        "slug": "nha-xuat-ban-lao-dong"
+    },
+    {
+        "name": "Nhà Xuất Bản Phụ Nữ",
+        "slug": "nha-xuat-ban-phu-nu"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Học",
+        "slug": "nha-xuat-ban-van-hoc"
+    },
+    {
+        "name": "Nhà Xuất Bản Thanh Niên",
+        "slug": "nha-xuat-ban-thanh-nien"
+    },
+    {
+        "id": 4115,
+        "name": "NXB Trẻ",
+        "slug": "tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Tổng hợp TP.HCM",
+        "slug": "nha-xuat-ban-tong-hop-tp.hcm"
+    },
+    {
+        "name": "Nhà Xuất Bản Kim Đồng",
+        "slug": "nha-xuat-ban-kim-dong"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Lao Động",
+        "slug": "nha-xuat-ban-lao-dong"
+    },
+    {
+        "name": "Nhà Xuất Bản Tổng hợp TP.HCM",
+        "slug": "nha-xuat-ban-tong-hop-tp.hcm"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Hồng Đức",
+        "slug": "nha-xuat-ban-hong-duc"
+    },
+    {
+        "name": "Nhà Xuất Bản Thanh Niên",
+        "slug": "nha-xuat-ban-thanh-nien"
+    },
+    {
+        "name": "Nhà Xuất Bản Hà Nội",
+        "slug": "nha-xuat-ban-ha-noi"
+    },
+    {
+        "name": "Nhà Xuất Bản Kim Đồng",
+        "slug": "nha-xuat-ban-kim-dong"
+    },
+    {
+        "name": "Nhà Xuất Bản Lao Động",
+        "slug": "nha-xuat-ban-lao-dong"
+    },
+    {
+        "name": "Nhà Xuất Bản Dân Trí",
+        "slug": "nha-xuat-ban-dan-tri"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Học",
+        "slug": "nha-xuat-ban-van-hoc"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Lao Động Xã Hội",
+        "slug": "nha-xuat-ban-lao-dong-xa-hoi"
+    },
+    {
+        "name": "Nhà Xuất Bản Hà Nội",
+        "slug": "nha-xuat-ban-ha-noi"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Học",
+        "slug": "nha-xuat-ban-van-hoc"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Học",
+        "slug": "nha-xuat-ban-van-hoc"
+    },
+    {
+        "name": "Nhà Xuất Bản Hà Nội",
+        "slug": "nha-xuat-ban-ha-noi"
+    },
+    {
+        "name": "Nhà Xuất Bản Phụ Nữ",
+        "slug": "nha-xuat-ban-phu-nu"
+    },
+    {
+        "name": "Nhà Xuất Bản Hà Nội",
+        "slug": "nha-xuat-ban-ha-noi"
+    },
+    {
+        "name": "Nhà Xuất Bản Dân Trí",
+        "slug": "nha-xuat-ban-dan-tri"
+    },
+    {
+        "name": "Nhà Xuất Bản Lao Động",
+        "slug": "nha-xuat-ban-lao-dong"
+    },
+    {
+        "name": "Nhà Xuất Bản Lao Động Xã Hội",
+        "slug": "nha-xuat-ban-lao-dong-xa-hoi"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Học",
+        "slug": "nha-xuat-ban-van-hoc"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Học",
+        "slug": "nha-xuat-ban-van-hoc"
+    },
+    {
+        "name": "Nhà Xuất Bản Phụ Nữ",
+        "slug": "nha-xuat-ban-phu-nu"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Học",
+        "slug": "nha-xuat-ban-van-hoc"
+    },
+    {
+        "name": "Nhà Xuất Bản Kim Đồng",
+        "slug": "nha-xuat-ban-kim-dong"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Hóa - Văn Nghệ",
+        "slug": "nha-xuat-ban-van-hoa---van-nghe"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Lao Động",
+        "slug": "nha-xuat-ban-lao-dong"
+    },
+    {
+        "name": "Nhà Xuất Bản Phụ Nữ",
+        "slug": "nha-xuat-ban-phu-nu"
+    },
+    {
+        "name": "Nhà Xuất Bản Đại Học Quốc Gia Hà Nội",
+        "slug": "nha-xuat-ban-dai-hoc-quoc-gia-ha-noi"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Hồng Đức",
+        "slug": "nha-xuat-ban-hong-duc"
+    },
+    {
+        "name": "Nhà Xuất Bản Dân Trí",
+        "slug": "nha-xuat-ban-dan-tri"
+    },
+    {
+        "name": "Nhà Xuất Bản Kim Đồng",
+        "slug": "nha-xuat-ban-kim-dong"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Hà Nội",
+        "slug": "nha-xuat-ban-ha-noi"
+    },
+    {
+        "name": "Nhà Xuất Bản Phụ Nữ",
+        "slug": "nha-xuat-ban-phu-nu"
+    },
+    {
+        "name": "Nhà Xuất Bản Hội Nhà Văn",
+        "slug": "nha-xuat-ban-hoi-nha-van"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Tổng hợp TP.HCM",
+        "slug": "nha-xuat-ban-tong-hop-tp.hcm"
+    },
+    {
+        "name": "Nhà Xuất Bản Đà Nẵng",
+        "slug": "nha-xuat-ban-da-nang"
+    },
+    {
+        "name": "Nhà Xuất Bản Tổng hợp TP.HCM",
+        "slug": "nha-xuat-ban-tong-hop-tp.hcm"
+    },
+    {
+        "name": "Nhà Xuất Bản Hà Nội",
+        "slug": "nha-xuat-ban-ha-noi"
+    },
+    {
+        "name": "Nhà Xuất Bản Lao Động",
+        "slug": "nha-xuat-ban-lao-dong"
+    },
+    {
+        "name": "Nhà Xuất Bản Tổng hợp TP.HCM",
+        "slug": "nha-xuat-ban-tong-hop-tp.hcm"
+    },
+    {
+        "name": "Nhà Xuất Bản Hồng Đức",
+        "slug": "nha-xuat-ban-hong-duc"
+    },
+    {
+        "name": "Nhà Xuất Bản Hội Nhà Văn",
+        "slug": "nha-xuat-ban-hoi-nha-van"
+    },
+    {
+        "name": "Nhà Xuất Bản Thanh Niên",
+        "slug": "nha-xuat-ban-thanh-nien"
+    },
+    {
+        "name": "Nhà Xuất Bản Tổng hợp TP.HCM",
+        "slug": "nha-xuat-ban-tong-hop-tp.hcm"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Học",
+        "slug": "nha-xuat-ban-van-hoc"
+    },
+    {
+        "name": "Nhà Xuất Bản Phụ Nữ Việt Nam",
+        "slug": "nha-xuat-ban-phu-nu-viet-nam"
+    },
+    {
+        "name": "Nhà Xuất Bản Công Thương",
+        "slug": "nha-xuat-ban-cong-thuong"
+    },
+    {
+        "name": "Nhà Xuất Bản Hồng Đức",
+        "slug": "nha-xuat-ban-hong-duc"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Học",
+        "slug": "nha-xuat-ban-van-hoc"
+    },
+    {
+        "name": "Nhà Xuất Bản Hà Nội",
+        "slug": "nha-xuat-ban-ha-noi"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Hồng Đức",
+        "slug": "nha-xuat-ban-hong-duc"
+    },
+    {
+        "name": "Nhà Xuất Bản Hà Nội",
+        "slug": "nha-xuat-ban-ha-noi"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "NXB Trẻ",
+        "slug": "nxb-tre"
+    },
+    {
+        "name": "Nhà Xuất Bản Hội Nhà Văn",
+        "slug": "nha-xuat-ban-hoi-nha-van"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Hội Nhà Văn",
+        "slug": "nha-xuat-ban-hoi-nha-van"
+    },
+    {
+        "name": "Nhà Xuất Bản Văn Học",
+        "slug": "nha-xuat-ban-van-hoc"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    },
+    {
+        "name": "Nhà Xuất Bản Tri Thức",
+        "slug": "nha-xuat-ban-tri-thuc"
+    },
+    {
+        "name": "Nhà Xuất Bản Lao Động",
+        "slug": "nha-xuat-ban-lao-dong"
+    },
+    {
+        "name": "Nhà Xuất Bản Thế Giới",
+        "slug": "nha-xuat-ban-the-gioi"
+    }
+]
