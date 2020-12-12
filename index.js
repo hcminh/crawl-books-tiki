@@ -45,28 +45,30 @@ const listIds = [];
         groups.shift();
         const categories = [];
         for (let j = 0; j < groups.length; j++) {
+            const group = capitalizeFirstChar(groups[j].replace('Sách ', ''));
             categories.push({
-                name: groups[j],
-                slug: nonAccentVietnamese(groups[j]).split(' ').join('-')
+                name: group,
+                slug: nonAccentVietnamese(group).split(' ').join('-')
             })
         }
         const attributes = json['specifications'][0]['attributes'];
         const publishers = [];
-        for (let k = 0; k < attributes.length; k++) {
+        for (let k = 8; k < attributes.length; k++) {
             // console.log(attributes[i]?.name);
             if (attributes[k]?.name == "Nhà xuất bản") {
-                console.log(attributes[k]?.value);
+                const publisherName = convertNXB(attributes[k]['value']);
                 publishers.push({
-                    name: attributes[k]['value'],
-                    slug: nonAccentVietnamese(attributes[k]['value']).split(' ').join('-')
+                    name: publisherName,
+                    slug: nonAccentVietnamese(publisherName).split(' ').join('-')
                 })
             }
         }
+
         const book = {
             name: json['name'],
             thumbnail_url: json['thumbnail_url'],
-            short_description: sanitizeHtml(json['short_description'], sanitizeOpt).replace(/\n/g, ' '),
-            description: sanitizeHtml(json['description'], sanitizeOpt).replace(/\n/g, ' '),
+            short_description: sanitizeHtml(json['short_description'], sanitizeOpt).replace(/\n/g, ' ').replace(/\r/g, ''),
+            description: sanitizeHtml(json['description'], sanitizeOpt).replace(/\n/g, ' ').replace(/\r/g, ''),
             categories: categories,
             publisher: publishers[0] ?? json['publisher'],
             authors: json['authors'],
@@ -122,4 +124,12 @@ function nonAccentVietnamese(str) {
     str = str.replace(/\u0300|\u0301|\u0303|\u0309|\u0323/g, ""); // Huyền sắc hỏi ngã nặng
     str = str.replace(/\u02C6|\u0306|\u031B/g, ""); // Â, Ê, Ă, Ơ, Ư
     return str;
+}
+
+function capitalizeFirstChar(str) {
+    return str.charAt(0).toUpperCase() + str.substring(1);
+}
+
+function convertNXB(str) {
+    return str.replace('Nhà Xuất Bản', 'NXB');
 }
